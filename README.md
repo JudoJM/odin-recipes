@@ -1,3 +1,3 @@
 # odin-recipes
-Este proyecto consiste en crear una pagina web para mostrar diferentes recetas de cocina usando HTML, la pagina proporcionara enlaces a esas recetas.
-Una vez que haya completado este proyecto habre demostrado que soy capaz de aplicar los conocimientos basicos de htmlt
+This project consists of creating a web page to display different cooking recipes using HTML, the page will provide links to those recipes. 
+Once I have completed this project I will have demonstrated that I am able to apply basic knowledge of HTML.
