@@ -1,2 +1,2 @@
 # odin-recipes
-This is a firt proyect
+This proyect is about website of recipes, in this proyect I learn a use HTMLt
